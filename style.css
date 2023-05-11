@@ -18,28 +18,7 @@
 }
 
 
-@media screen and (min-width:475px ) {
 
-    .house{
-        display: block;
-        text-align: -webkit-center;
-        justify-content: center;
-    }
-
-
-
-    .main-result{
-        width: 30%;
-        height: 395px;
-        text-align: center;
-        background-color: hsl(252, 100%, 67%);
-        padding-bottom: 15px;
-        padding-top: 12px;
-        border-radius: 26px;
-        color: white;
-    
-    
-    }
 
     .summary{
         width: 35%;
